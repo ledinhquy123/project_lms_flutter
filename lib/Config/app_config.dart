@@ -2,7 +2,7 @@
 import 'package:get/get.dart';
 import 'package:lms_flutter_app/Controller/site_controller.dart';
 
-final String appLogo = "logo.png";
+final String appLogo = "logo_lms.jpg";
 
 //** CHANGE SPLASH SCREEN IMAGE
 final String splashLogo = "Splash.png";

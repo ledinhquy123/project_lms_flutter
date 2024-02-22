@@ -1,8 +1,9 @@
+<!-- package="com.infix.lms" -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
         package="com.infix.lms">
     <application
-            android:label="InfixLMS"
+            android:label="Aicoju-best-AIedu"
             tools:replace="android:label"
             android:icon="@mipmap/launcher_icon"
             android:usesCleartextTraffic="true">

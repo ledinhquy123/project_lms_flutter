@@ -98,7 +98,7 @@ dev_dependencies:
 flutter_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "images/logo.jpg"
+  image_path: "images/logo_lms.jpg"
 
 flutter_native_splash:
   background_image: "images/Splash.png"
