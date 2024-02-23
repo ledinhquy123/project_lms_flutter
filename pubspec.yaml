@@ -101,7 +101,7 @@ flutter_icons:
   image_path: "images/logo_lms.jpg"
 
 flutter_native_splash:
-  background_image: "images/Splash.png"
+  background_image: "images/logo_lms.jpg"
   fullscreen: false
 
 flutter:

@@ -5,10 +5,10 @@ import 'package:lms_flutter_app/Controller/site_controller.dart';
 final String appLogo = "logo_lms.jpg";
 
 //** CHANGE SPLASH SCREEN IMAGE
-final String splashLogo = "Splash.png";
+final String splashLogo = "logo_lms.jpg";
 
 // ** CHANGE WEBSITE ROOT URL
-final String rootUrl = "https://spondan.com/spn23/lmsdemo";
+final String rootUrl = "https://aicoju.edu.vn";
 // final String rootUrl = "https://spondan.com/spn19/production/570";
 //https://spondan.com/spn19/production/520
 //https://spondan.com/spn23/lmsdemo
@@ -22,7 +22,7 @@ final String authHeader =
 
 final String isBearer = authHeader == "X-Authorization" ? "" : "Bearer ";
 
-final String apiKey = "HELLOWORLD";
+final String apiKey = "FCqkYpOt1PEPQAzCigPSmuWzBDCIAXXMhTt0H2K4YlJpWjin6KZfOeX4hUWfVoal";
 
 Map<String, String> header({String? token}) {
   print('token is :::::: $token}');
@@ -37,7 +37,7 @@ Map<String, String> header({String? token}) {
 final String baseUrl = rootUrl + "/api";
 
 //** Change App Title
-final String companyName = "InfixLMS";
+final String companyName = "Aicoju-best-AIedu";
 
 //** Change Currency
 String appCurrency = '\$';
@@ -46,7 +46,7 @@ String appCurrency = '\$';
 final bool enableCurrencyConvert = true;
 
 //** VdoCipher API KEY
-final String vdoCipherApiKey =
+final String vdoCipherApiKey = 
     "GfLenTbglazt9TCSgJpqRTDYTQnZJGro4lCPr9wJ43Cyw9pGz9NxiEG3ECXJqmrW";
 
 //** Change currencyconverterapi.com API KEY
